@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Precision Instrument, Tsinghua University, China, 2015 - 2019
+* Ph.D. student in Computer Science, UC Santa Barbara, 2019 - current
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Assistant
+  * UC Santa Barbara
+  * Contributions: Tensor network contraction ordering
+  * Supervisor: Professor Yuan Xie
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: Python, MATLAB
+* Spoken languages: Chinese, English
+* Engineering software: AutoCAD, Solidworks, LabView, etc.
 
 Publications
 ======
@@ -42,18 +34,29 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* CMPSC 8, Introduction to Computer Science, 2019 Fall
+* CMPSC 165A, Artificial Intelligence, 2020 Winter
+* CMPSC 165A, Artificial Intelligence, 2020 Spring
   
-Service and leadership
+Honors and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Excellent Undergraduate Student Award, Tsinghua University (ranked Top 5%), 2019
+* Recommendation, by Department of PI, for **Special Scholarship** of Tsinghua University, 2018
+  * Only ONE undergraduate in each department to be recommended.
+* Member of 11<sup>th</sup> Group of *Tsinghua Spark Program*, 2018
+  * Top 50 undergraduate students in research.
+* Comprehensive Excellence Awards, Tsinghua University, 2016 & 2017
+* Silver Medals, Chinese Mathematical Olympiad (CMO), 2013 & 2014
+* First Prizes, National Senior High School Mathematical Contest, 2013 & 2014
+  * **Provincial Champion** out of 1500+ participants (and of 20,000+ preliminaries)
+
