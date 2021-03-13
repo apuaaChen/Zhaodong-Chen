@@ -9,7 +9,9 @@ date: 2020-04-01
 ---
 
 Taught senior undergraduate students about basic artificial intelligence ideas and methods, including basic machine learning, (Bayesian) probabilistic graphical models, searching, Markov decision process and Reinforcement Learning, and Logics. 
+
 <!--
+
 ---
 title: "Teaching experience 2"
 collection: teaching
@@ -30,4 +32,5 @@ Heading 2
 
 Heading 3
 ======
+
 -->
