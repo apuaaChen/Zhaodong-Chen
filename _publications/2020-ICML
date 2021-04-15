@@ -7,7 +7,7 @@ excerpt: 'A light-weighted “little” module with random projection and weight
 date: 2020-5-31
 venue: 'Proceddings of the 37th International Conference on Machine Learning (ICML 2020)'
 paperurl: 'https://proceedings.icml.cc/static/paper_files/icml/2020/5569-Paper.pdf'
-citation: 'Liu, Liu, Lei Deng, **Zhaodong Chen**, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, and Yuan Xie. "Boosting deep neural network efficiency with dual-module inference." In International Conference on Machine Learning, pp. 6205-6215. PMLR, 2020.'
+citation: 'Liu, Liu, Lei Deng, Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, and Yuan Xie. "Boosting deep neural network efficiency with dual-module inference." In International Conference on Machine Learning, pp. 6205-6215. PMLR, 2020.'
 ---
 We develop a light-weighted “little” module with random projection and weight quantization for probing neural network layer wise output sparsity to facilitate NN inference acceleration. 
 
