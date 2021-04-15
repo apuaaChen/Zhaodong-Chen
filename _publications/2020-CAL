@@ -1,0 +1,25 @@
+---
+title: "Characterizing and understanding GCNs on GPU"
+collection: publications
+permalink: /publication/2020-CAL
+excerpt: 'Characterize the GCN workloads at inference stage on NVIDIA V100 GPU'
+date: 2020-1-26
+venue: 'IEEE Computer Architecture Letters (CAL)'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8976117'
+citation: 'Yan, Mingyu, Zhaodong Chen, Lei Deng, Xiaochun Ye, Zhimin Zhang, Dongrui Fan, and Yuan Xie. "Characterizing and understanding GCNs on GPU." IEEE Computer Architecture Letters 19, no. 1 (2020): 22-25.'
+---
+We characterize the GCN workloads at inference stage on NVIDIA V100 GPU. Beside, we propose several useful guidelines for both software optimization and hardware optimization.
+
+
+```
+@article{yan2020characterizing,
+  title={Characterizing and understanding GCNs on GPU},
+  author={Yan, Mingyu and Chen, Zhaodong and Deng, Lei and Ye, Xiaochun and Zhang, Zhimin and Fan, Dongrui and Xie, Yuan},
+  journal={IEEE Computer Architecture Letters},
+  volume={19},
+  number={1},
+  pages={22--25},
+  year={2020},
+  publisher={IEEE}
+}
+```
