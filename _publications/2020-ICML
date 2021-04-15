@@ -1,0 +1,24 @@
+---
+title: "Boosting Deep Neural Network Efficiency with Dual-Module Inference"
+collection: publications
+permalink: /publication/2020-ICML
+excerpt: 'A light-weighted “little” module with random projection and weight quantization for probing neural network layer wise output sparsity to facilitate NN inference acceleration. 
+'
+date: 2020-5-31
+venue: 'Proceddings of the 37th International Conference on Machine Learning (ICML 2020)'
+paperurl: 'https://proceedings.icml.cc/static/paper_files/icml/2020/5569-Paper.pdf'
+citation: 'Liu, Liu, Lei Deng, Zhaodong Chen, Yuke Wang, Shuangchen Li, Jingwei Zhang, Yihua Yang, Zhenyu Gu, Yufei Ding, and Yuan Xie. "Boosting deep neural network efficiency with dual-module inference." In International Conference on Machine Learning, pp. 6205-6215. PMLR, 2020.'
+---
+We develop a light-weighted “little” module with random projection and weight quantization for probing neural network layer wise output sparsity to facilitate NN inference acceleration. 
+
+
+```
+@inproceedings{liu2020boosting,
+  title={Boosting deep neural network efficiency with dual-module inference},
+  author={Liu, Liu and Deng, Lei and Chen, Zhaodong and Wang, Yuke and Li, Shuangchen and Zhang, Jingwei and Yang, Yihua and Gu, Zhenyu and Ding, Yufei and Xie, Yuan},
+  booktitle={International Conference on Machine Learning},
+  pages={6205--6215},
+  year={2020},
+  organization={PMLR}
+}
+```
