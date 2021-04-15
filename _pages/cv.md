@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I’m a second-year Ph.D. student at [Scalable Energy-Efficient Architecture Lab (SEAL)](https://seal.ece.ucsb.edu) at University of California, Santa Barbara, supervised by [Prof. Yuan Xie](https://web.ece.ucsb.edu/~yuanxie/) and [Prof. Yufei Ding](https://sites.cs.ucsb.edu/~yufeiding/). My research interests including **GPGPU** and **Deep Learning**.
+
 Education
 ======
 * B.S. in Precision Instrument, Tsinghua University, China, 2015 - 2019
