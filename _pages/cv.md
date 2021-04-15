@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,14 +12,16 @@ redirect_from:
 Education
 ======
 * B.S. in Precision Instrument, Tsinghua University, China, 2015 - 2019
-  * GPA: 3.67/4.00  Rank: 7/45
 * Ph.D. student in ECE, UC Santa Barbara, 2019 - current
-  * GPA: 3.96/4.00
 
 Skills
 ======
-* Languages: Python, C++, CUDA
-* Tools: PyTorch, Nsight Compute, Accel-SIM
+* **Languages**: Python, C++, CUDA
+* **Tools**: PyTorch, Nsight Compute, Accel-SIM
+
+Experience Highlight
+======
+Experience on 1) design and optimize CUDA kernels with CUDA C++ and inline PTX assembly; 2) accelerate half precision kernels with Tensor Core;  3) profile and analyze kernel performance with Nsight Compute; 4) backbone neural networks for Deep Learning, such as CNN, GNN, Transformer, SNN, etc.
 
 Internship
 ======
@@ -31,18 +33,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!--
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
--->
-  
 Honors and Awards
 ======
-* Excellent Undergraduate Student Award, Tsinghua University (ranked Top 5%), 2019
-* Outstanding Graduate in Beijing
-  * Only THREE undergraduate in my department
+* Excellent Undergraduate Student Award, Tsinghua University, 2019
+* Outstanding Graduate in Beijing, 2019
 * Comprehensive Excellence Awards, Tsinghua University, 2016 & 2017 & 2018
 
