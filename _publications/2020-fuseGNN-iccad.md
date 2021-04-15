@@ -3,7 +3,7 @@ title: "fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPG
 collection: publications
 permalink: /publication/2020-fuseGNN-ICCAD
 excerpt: 'A framework powered by customized CUDA kernels for accelerating GNN training on GPGPU'
-date: 2020
+date: 2020-7-15
 venue: '2020 International Conference on Computer Aided Design (ICCAD 2020)'
 paperurl: 'https://ieeexplore.ieee.org/document/9256702'
 citation: 'Chen, Zhaodong, et al. "fuseGNN: accelerating graph convolutional neural network training on GPGPU." 2020 IEEE/ACM International Conference On Computer Aided Design (ICCAD). IEEE, 2020.'
